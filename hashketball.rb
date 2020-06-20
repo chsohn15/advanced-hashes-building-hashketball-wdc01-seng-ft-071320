@@ -3,7 +3,9 @@ hashketball ={
   :home =>{
     :team_name => "TODO",
     :colors=>["TODO"],
-    :players =>[{},{}],
+    :players =>[
+      {},
+      {}],
   },
     
   
